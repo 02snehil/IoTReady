@@ -19,10 +19,6 @@ React.js + Vit, localStorage, React-Component, Browser-API, HTML-CSS-JS, HTML-au
 ## How To Run
 
 npm run dev
-## Hosted Web App Link on Netlify
-
-
-
 
 ## Screenshots Of Application
 
